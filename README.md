@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daiolupo
 - 👀 I’m interested in Web Development, Game Development and Computer programming.
-- 🌱 I’m currently learning Client-side Development and Business Analysis and solution design
+- 🌱 I’m currently learning Data Structures & Algorithms in C# and Mobile Development using Xamarin with C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- d.aiolupo@gmail.com or through twitter @daiolupo
 
