@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daiolupo
 - 👀 I’m interested in Web Development, Game Development and Computer programming.
-- 🌱 I’m currently learning Data Structures & Algorithms in C# and Mobile Development using Xamarin with C#.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Testing & Maintenance and Game Development using the Godot Game Engine.
+- 💞️ I’m looking to collaborate on Game Development in Godot Gaming Engine
 - 📫 How to reach me -- d.aiolupo@gmail.com or through twitter @daiolupo
 
 <!---
